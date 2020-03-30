@@ -1,0 +1,11 @@
+C:\Code\OOP.2.5 - SimpleGeometry\bin\Debug\netcoreapp3.1\SimpleGeometry.exe
+C:\Code\OOP.2.5 - SimpleGeometry\bin\Debug\netcoreapp3.1\SimpleGeometry.deps.json
+C:\Code\OOP.2.5 - SimpleGeometry\bin\Debug\netcoreapp3.1\SimpleGeometry.runtimeconfig.json
+C:\Code\OOP.2.5 - SimpleGeometry\bin\Debug\netcoreapp3.1\SimpleGeometry.runtimeconfig.dev.json
+C:\Code\OOP.2.5 - SimpleGeometry\bin\Debug\netcoreapp3.1\SimpleGeometry.dll
+C:\Code\OOP.2.5 - SimpleGeometry\bin\Debug\netcoreapp3.1\SimpleGeometry.pdb
+C:\Code\OOP.2.5 - SimpleGeometry\obj\Debug\netcoreapp3.1\SimpleGeometry.csprojAssemblyReference.cache
+C:\Code\OOP.2.5 - SimpleGeometry\obj\Debug\netcoreapp3.1\SimpleGeometry.AssemblyInfoInputs.cache
+C:\Code\OOP.2.5 - SimpleGeometry\obj\Debug\netcoreapp3.1\SimpleGeometry.AssemblyInfo.cs
+C:\Code\OOP.2.5 - SimpleGeometry\obj\Debug\netcoreapp3.1\SimpleGeometry.dll
+C:\Code\OOP.2.5 - SimpleGeometry\obj\Debug\netcoreapp3.1\SimpleGeometry.pdb
